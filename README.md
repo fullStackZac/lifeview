@@ -1,2 +1,9 @@
 # lifeview
-This is a small social media application written using React/Node.  
+This is a small social media application written using the MERN Stack. 
+
+Inspiration: I have been a graphics and video game engnie programmer for the majority of my time spent in code. When I decided that I wanted to learn web programming (with the ultimate goal of creating a small business centered around a novel API) in depth, I came up with several project ideas to facilitate the most efficient learning process possible - I learn by doing as most programmer type folks seem to do.  A social media app was the first project idea I came across.  Full disclosure here, while at a bit of a loss as to what my first robust web application should be, I found Google to be a wonderful ally in brainstorming ideas!  But, that is really only half the story for this project.  The other half comes from my fascination with and love of storytelling.  Growing up I have always thought it a shame that so many of the wonderful stories and lessons shared with me by the aging generation of the time (my great-grandmother's in this case. She was born in 1912!) would soon be lost never to be told again.  I thoguht maybe there would be a way to keep this from happening for a lot of folks and maybe I could use software to implement this solution at scale.  I thought a social-media style (that last word is significant as in the end, while this is a social app, it is not a social media app) tool people could use to archive their life stories and leave the ability for their loved ones to have them told on demand would be a wonderful gift for anyone to have.  That is what this application is.  It is the beginning and scaffolding structure of this social storytelling application I plan to build out. 
+
+Technologies/Dependencies:
+  - taailwind (CSS solution)
+  - MERN Stack: MongoDB | ExpressJS | ReactJS | NodeJS
+  - sanity.io (a wonderful tool that facilitates spinning up the backend of an app very quickly)
